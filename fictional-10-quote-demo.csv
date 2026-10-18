@@ -1,0 +1,11 @@
+quote_id,customer_alias,fictional_context,example_decision,example_next_step,data_status
+Q-001,Customer A,"Current quote. Buyer comparing suppliers.",FOLLOW UP,Ask about decision timing and open questions.,FICTIONAL DEMONSTRATION
+Q-002,Customer B,"Quote acknowledged. Promised review date passed.",FOLLOW UP,Confirm whether the requirement is still active.,FICTIONAL DEMONSTRATION
+Q-003,Customer C,"Buyer requested a refresh. Quote validity expired.",REQUOTE,Review current scope and pricing internally.,FICTIONAL DEMONSTRATION
+Q-004,Customer D,"Active requirement. Prior lead time no longer valid.",REQUOTE,Confirm availability before issuing a revised quote.,FICTIONAL DEMONSTRATION
+Q-005,Customer E,Program delayed until next quarter.,NURTURE,Set a review date aligned to the stated delay.,FICTIONAL DEMONSTRATION
+Q-006,Customer F,Customer requested contact after a budget review.,NURTURE,Schedule a check-in after that review.,FICTIONAL DEMONSTRATION
+Q-007,Customer G,Buyer explicitly confirmed another supplier won.,CLOSE,Record the loss reason. No follow-up draft.,FICTIONAL DEMONSTRATION
+Q-008,Customer H,Project explicitly cancelled.,CLOSE,Close the record with its documented outcome.,FICTIONAL DEMONSTRATION
+Q-009,Customer I,Two quote revisions. Current revision unclear.,NEEDS REVIEW,Ask which revision is customer-facing.,FICTIONAL DEMONSTRATION
+Q-010,Customer J,"Note says waiting. Activity history is missing.",NEEDS REVIEW,"Ask who is waiting on whom and for what.",FICTIONAL DEMONSTRATION
